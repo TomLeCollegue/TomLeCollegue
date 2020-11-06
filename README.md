@@ -1,20 +1,28 @@
 ### Hi there 👋
 
-<!--
-**TomLeCollegue/TomLeCollegue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🌱 Master Student in IT in the SAVOIE MONT BLANC UNIVERSITY in Chambery, FRANCE 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TomLeCollegue&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomLeCollegue)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomLeCollegue)](https://github.com/anuraghazra/github-readme-stats)
+- 📱 Currently working on a Social Mobile Application based on Bluetooth Proximity :
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=ProximityV2)](https://github.com/TomLeCollegue/ProximityV2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=ProximityServer)](https://github.com/TomLeCollegue/ProximityServer)
+
+- 🎮  Worked on the Serious game Urbalog in Unity and a drone Simulation :
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=UrbalogUnity)](https://github.com/TomLeCollegue/UrbalogUnity)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=DroneSimulation)](https://github.com/TomLeCollegue/DroneSimulation)
+
+- 🔊  Tried to build a Vocal Assistant in python called Monique --> [![MoniqueAssistant](https://img.shields.io/static/v1?label=Project:&message=MoniqueAssistant&color=Blue)](https://github.com/TomLeCollegue/MoniqueAssistant)
+- 🎸  Android App for musicians --> [![MusicProject](https://img.shields.io/static/v1?label=Project:&message=MusicApp&color=Blue)](https://github.com/TomLeCollegue/ProjetMobileMusique)
+
+**Contact me :**
+- <a href="https://www.linkedin.com/in/tom-kubasik-4a619a195/">Linkedin</a> 👨‍💼
+- <a href="https://www.instagram.com/tomkubasik/">Instagram</a> 📷
+
+<div align="center">
+    <a>
+        <img alt="Tom's github stat" src="https://github-readme-stats.vercel.app/api?username=TomLeCollegue&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+    </a>
+</div>

@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello ! 👋😁
 
-Here are some ideas to get you started:
--->
 - 🌱 Master Student in IT in the SAVOIE MONT BLANC UNIVERSITY in Chambery, FRANCE 
 
 - 📱 Currently working on a Social Mobile Application based on Bluetooth Proximity :
@@ -20,7 +18,6 @@ Here are some ideas to get you started:
 **Contact me :**
 - <a href="https://www.linkedin.com/in/tom-kubasik-4a619a195/">Linkedin</a> 👨‍💼
 - <a href="https://www.instagram.com/tomkubasik/">Instagram</a> 📷
-
 <div>
     <a>
         <img alt="Tom's github stat" src="https://github-readme-stats.vercel.app/api?username=TomLeCollegue&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />

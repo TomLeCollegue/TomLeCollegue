@@ -2,6 +2,10 @@
 
 - 🌱 Master Student in IT in the SAVOIE MONT BLANC UNIVERSITY in Chambery, FRANCE 
 
+- 📱 Kotlin App for managing tasks :
+
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=GoalLifeApp)](https://github.com/TomLeCollegue/GoalLifeApp)
+
 - 📱 Currently working on a Social Mobile Application based on Bluetooth Proximity :
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TomLeCollegue&repo=ProximityV2)](https://github.com/TomLeCollegue/ProximityV2)
